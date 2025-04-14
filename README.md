@@ -1,2 +1,1 @@
-# HTTP-server-in-C-with-Nonblocking-
-Hello, i am Suyash palve FY_Computer diploma , this is my project for Programming in c (a class i take ) its very much documented in code but you can ask me anything if you want at CAYLUSPALVE@GMAIL.COM !! 
+hola i am suyash palve and i made this HTTP server that runs all local on your computer and it would also host you html file intestingly it's incorporated with nonblocking and that is very much complicated and was fun it uses sys library so please run the file on linux and if you dont use linux install WSL (its a integrated linux in windows you can install it from command promt i had a class in linux so i used that knowledge )please make sure to ask me any any queations at my gmail cayluspalve@gmail.com thank you !! bye bye 
